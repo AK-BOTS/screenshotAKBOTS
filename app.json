@@ -52,7 +52,7 @@
 
       "description": "Name you want to call your bot's session, Eg: bot username.",
 
-      "value": ""
+      "value": "@Testforscreenshotbot"
 
     },
 
